@@ -29,7 +29,6 @@ int main(int argc, const char * argv[]) {
     if (magicDate != userYear)
     {
         cout << "Your Date is not Magic"<< endl;
-
     }
     else
     {
